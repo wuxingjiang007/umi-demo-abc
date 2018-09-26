@@ -16,6 +16,6 @@ export default {
       hardSource: false,
     }],
   ],
-  publicPath: './docs',
+  publicPath: './docs/',
   outputPath: './docs',
 }
