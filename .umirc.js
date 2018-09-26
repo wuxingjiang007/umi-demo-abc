@@ -16,5 +16,5 @@ export default {
       hardSource: false,
     }],
   ],
-  outputPath: './doc'
+  outputPath: './docs'
 }
