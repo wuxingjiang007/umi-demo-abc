@@ -16,7 +16,7 @@ export default {
       hardSource: false,
     }],
   ],
-  publicPath: './docs/',
+  // publicPath: '/',
   outputPath: './docs',
-  base: './docs'
+  // base: './docs'
 }
