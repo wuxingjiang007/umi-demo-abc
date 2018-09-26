@@ -16,7 +16,7 @@ export default {
       hardSource: false,
     }],
   ],
-  // publicPath: '/',
+  publicPath: './umi-demo-abc/',
   outputPath: './docs',
-  base: './umi-demo-abc/'
+  // base: './umi-demo-abc/'
 }
