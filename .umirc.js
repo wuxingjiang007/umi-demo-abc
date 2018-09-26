@@ -18,4 +18,5 @@ export default {
   ],
   publicPath: './docs/',
   outputPath: './docs',
+  base: './docs'
 }
