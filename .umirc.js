@@ -18,5 +18,5 @@ export default {
   ],
   publicPath: './',
   outputPath: './docs',
-  // base: './umi-demo-abc/'
+  base: './'
 }
